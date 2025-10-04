@@ -1,4 +1,4 @@
-# "A Day in the life" - HackAthlone
+# Hackumentary
 On day one of our SpaceApps journey we attempted to build a Space Biology Knowledge Engine, hosted on a webpage, utilisng AI that we had trained on Data provided by NASA. Unfortunately, our collective knowledge gaps proved too much to acheive a viable prototype and we have had to pivot into a new challenge.
 
 This has given us a valuable learning experience both in adapting our approach from concept to build and given us an insight into where we can direct future learning. It is however, not a total failure, as we have gained an experience and also, througout our attempt we documented everything, with text, imagery and video, we met many amazing fellow hackers, we collaborated and learned.
