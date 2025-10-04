@@ -46,7 +46,7 @@ Researching methods for integrating graphs/ taking graph data from repositories.
 
 ### Hackumentary
 <p align="center">
-    <img src="Documentation/Images/1000032430.jpg"/>
+    <img src="Documentation/Images/1000032430.jpg"/ height=400px>
 </p>
 
 ### Website Build Team: Mark/George
