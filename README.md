@@ -71,10 +71,11 @@ Web Page:
 <p>https://chatgpt.com/</p>
 
 Media Editing:
+<p>https://www.blackmagicdesign.com/event/davinciresolvedownload</p>
 
 
 Documentation:
-https://github.com/
+<p>https://github.com/</p>
 
 
 
