@@ -18,6 +18,11 @@ A web application that leverages AI, knowledge graphs, and/or other tools to sum
 
 ## Tasks
 ## AstroLife Engine
+
+<p align="center">
+    <img src="Documentation/Images/1000032404.jpg"/>
+</p>
+
 ### Google Cloud Platform Team: Dylan/Ciara
 Enabled APIs
 Vertex AI API - To train machine learning modules.
