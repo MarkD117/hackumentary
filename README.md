@@ -17,7 +17,7 @@ A web application that leverages AI, knowledge graphs, and/or other tools to sum
 * placeholder
 
 ## Tasks
-### AstroLife Engine
+## AstroLife Engine
 ### Google Cloud Platform Team: Dylan/Ciara
 Enabled APIs
 Vertex AI API - To train machine learning modules.
@@ -36,6 +36,25 @@ First major roadblacks hit, previously used software no longer available
 
 ### Graph Integration Team: Alex/George
 Researching methods for integrating graphs/ taking graph data from repositories.
+
+### Documentation: All/Rob
+
+### Hackumentary
+### Website Build Team: Mark/George
+We chose a .study domain as other options didn’t allow for WHOIS security.
+We used the GoDaddy website builder, we had considered building our own from scratch in VS Code, but given we had already lost our first day we opted for a website builder to be as efficent as possible with our remaining time.
+A privacy policy was generated
+
+### Media Editing Team: Ciara/Dylan
+As the content creation team captured footage and images, they would send this to our editing team via WhatsApp and email. The editing team would then sort through the content to find what best suited our needs and using DaVinci Resolve would edit the raw footage.
+
+### Content Creation Team: Alex
+Using Alex's iPad, we continued to take video of our team throughout our creation process. We also took video of other hackers participating, with their consent and interviewed willing teams with their projects and HackAthlone staff and volunteers on site for their perspective and experiences. 
+
+### Documentation: Rob
+Each individual kept a timeline of their work, Rob then gathered this and kept updating the ReadME file on github. 
+
+
 
 
 
