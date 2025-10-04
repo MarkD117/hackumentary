@@ -14,7 +14,6 @@ A web application that leverages AI, knowledge graphs, and/or other tools to sum
 ## Index - Table of contents
 * [Tasks](#tasks)
 * [Reference Links](#reference-links)
-* placeholder
 
 ## Tasks
 # AstroLife Engine
