@@ -17,7 +17,7 @@ A web application that leverages AI, knowledge graphs, and/or other tools to sum
 * placeholder
 
 ## Tasks
-## AstroLife Engine
+# AstroLife Engine
 
 <p align="center">
     <img src="Documentation/Images/1000032404.jpg"/ height=400px>
@@ -44,7 +44,7 @@ Researching methods for integrating graphs/ taking graph data from repositories.
 
 ### Documentation: All/Rob
 
-### Hackumentary
+# Hackumentary
 <p align="center">
     <img src="Documentation/Images/1000032430.jpg"/ height=400px>
 </p>
