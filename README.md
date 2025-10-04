@@ -20,7 +20,7 @@ A web application that leverages AI, knowledge graphs, and/or other tools to sum
 ## AstroLife Engine
 
 <p align="center">
-    <img src="Documentation/Images/1000032404.jpg"/ height=200px>
+    <img src="Documentation/Images/1000032404.jpg"/ height=400px>
 </p>
 
 ### Google Cloud Platform Team: Dylan/Ciara
