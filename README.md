@@ -42,7 +42,7 @@ First major roadblacks hit, previously used software no longer available
 ### Graph Integration Team: Alex/George
 Researching methods for integrating graphs/ taking graph data from repositories.
 
-### Documentation: All/Rob
+### Documentation: Rob/Alex
 
 # Hackumentary
 <p align="center">
@@ -60,7 +60,7 @@ As the content creation team captured footage and images, they would send this t
 ### Content Creation Team: Alex
 Using Alex's iPad, we continued to take video of our team throughout our creation process. We also took video of other hackers participating, with their consent and interviewed willing teams with their projects and HackAthlone staff and volunteers on site for their perspective and experiences. 
 
-### Documentation: Rob
+### Documentation: Rob/Alex
 Each individual kept a timeline of their work, Rob then gathered this and kept updating the ReadME file on github. 
 
 ## Reference Links
