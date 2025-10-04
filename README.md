@@ -48,7 +48,7 @@ Researching methods for integrating graphs/ taking graph data from repositories.
     <img src="Documentation/Images/1000032430.jpg"/ height=400px>
 </p>
 
-### Website Build Team: Mark/Rob
+### Website Build Team: Mark/Rob/Dylan
 We chose a .study domain as other options didn’t allow for WHOIS security.
 Using VsCode and MongoDB we created our website witha blog and comment function, we added CRUD features so posts could be updated and deleted.
 
