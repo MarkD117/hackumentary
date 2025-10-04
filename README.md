@@ -14,10 +14,12 @@ A web application that leverages AI, knowledge graphs, and/or other tools to sum
 * placeholder
 
 ## Tasks
+### AstroLife Engine
 ### Google Cloud Platform Team: Dylan/Ciara
 Enabled APIs
 Vertex AI API - To train machine learning modules.
 Cloud Storage API - Storing the NASA Repository (.CSV files).
+Roadblocks hit. AI learning would not complete, several different changes attempted but utimately beyond our skillset. 
 
 Created Bucket
 Downloaded the 608 publication links from the NASA resource repository in .CSV format and added them to the bucket on GCP.
@@ -25,8 +27,9 @@ Downloaded the 608 publication links from the NASA resource repository in .CSV f
 Trained AI Model
 Imported the .CSV files from the bucket to Vertex AI and trained the AI model.
 
-### GoDaddy Domain/Website Build Team: Mark
+### GoDaddy Domain/Website Build Team: Mark/Rob
 Chose a .study domain as other options didn’t allow for WHOIS security.
+First major roadblacks hit, previously used software no longer available 
 
 ### Graph Integration Team: Alex/George
 Researching methods for integrating graphs/ taking graph data from repositories.
