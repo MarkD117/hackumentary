@@ -13,7 +13,7 @@ A web application that leverages AI, knowledge graphs, and/or other tools to sum
 
 ## Index - Table of contents
 * [Tasks](#tasks)
-* Placeholder
+* [Reference Links](#reference-links)
 * placeholder
 
 ## Tasks
@@ -62,6 +62,8 @@ Using Alex's iPad, we continued to take video of our team throughout our creatio
 
 ### Documentation: Rob
 Each individual kept a timeline of their work, Rob then gathered this and kept updating the ReadME file on github. 
+
+## Reference Links
 
 
 
