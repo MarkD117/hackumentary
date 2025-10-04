@@ -6,7 +6,7 @@ On day one of our SpaceApps journey we attempted to build a Space Biology Knowle
 This has given us a valuable learning experience both in adapting our approach from concept to build and given us an insight into where we can direct future learning. It is however, not a total failure, as we have gained an experience and also, througout our attempt we documented everything, with text, imagery and video, we met many amazing fellow hackers, we collaborated and learned.
 
 ## ctrl-alt-pivot
-Which leads us to our new challenge, "A day in the life" - HackAthlone will be a documentary of sorts, hosted on a webpage of our making, will feature our process for our first attempt, testimonials, video interviews both with the team and fellow hackers and imagery.
+Which leads us to our new challenge, Hackumentary will be a documentary of sorts, hosted on a webpage of our making, will feature our process for our first attempt, testimonials, video interviews both with the team and fellow hackers and imagery.
 
 ## astrolife-engine
 A web application that leverages AI, knowledge graphs, and/or other tools to summarize the 608 NASA bioscience publications listed in an online repository, and enables users to explore the impacts and results from the experiments those publications describe.
