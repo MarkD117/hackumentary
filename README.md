@@ -49,7 +49,7 @@ Researching methods for integrating graphs/ taking graph data from repositories.
     <img src="Documentation/Images/1000032430.jpg"/ height=400px>
 </p>
 
-### Website Build Team: Mark/George
+### Website Build Team: Mark/Rob
 We chose a .study domain as other options didn’t allow for WHOIS security.
 We used the GoDaddy website builder, we had considered building our own from scratch in VS Code, but given we had already lost our first day we opted for a website builder to be as efficent as possible with our remaining time.
 A privacy policy was generated
