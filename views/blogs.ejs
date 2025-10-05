@@ -1,0 +1,21 @@
+<% title = 'Blogs'; active = 'blogs'; %>
+
+<div class="minimal-container">
+  <div class="blogs-header-minimal">
+    <h1 class="minimal-heading">All Blog Posts</h1>
+    <a href="/blogs/new" class="minimal-btn">Create New Blog</a>
+  </div>
+
+  <div class="blogs-grid-minimal">
+    <% blogs.forEach(blog => { %>
+      <div class="blog-card-minimal">
+        <a href="/blogs/<%= blog._id %>" class="blog-link-minimal">
+          <h3><%= blog.title %></h3>
+        </a>
+        <p class="blog-preview-minimal"><%= blog.content.substring(0, 150) %>...</p>
+
+
+      </div>
+    <% }) %>
+  </div>
+</div>

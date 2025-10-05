@@ -1,0 +1,22 @@
+<% title = 'Edit Blog'; active = 'blogs'; %>
+
+<div class="edit-blog-container">
+  <h1 class="minimal-heading">Edit Blog Post</h1>
+  
+  <form action="/blogs/<%= blog._id %>?_method=PUT" method="POST" class="minimal-form">
+    <div class="form-group-minimal">
+      <label for="title" class="form-label-minimal">Title</label>
+      <input type="text" class="minimal-input" id="title" name="title" value="<%= blog.title %>" required>
+    </div>
+
+    <div class="form-group-minimal">
+      <label for="content" class="form-label-minimal">Content</label>
+      <textarea class="minimal-textarea" id="content" name="content" rows="8" required><%= blog.content %></textarea>
+    </div>
+
+    <div class="form-actions">
+      <button type="submit" class="minimal-btn submit">Update</button>
+      <a href="/blogs/<%= blog._id %>" class="minimal-btn">Cancel</a>
+    </div>
+  </form>
+</div>

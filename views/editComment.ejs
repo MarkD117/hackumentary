@@ -1,0 +1,17 @@
+<% title = 'Edit Comment'; active = 'blogs'; %>
+
+<div class="edit-blog-container">
+  <h1 class="minimal-heading">Edit Comment</h1>
+  
+  <form action="/blogs/<%= blog._id %>/comments/<%= index %>?_method=PUT" method="POST" class="minimal-form">
+    <div class="form-group-minimal">
+      <label for="comment" class="form-label-minimal">Comment</label>
+      <input type="text" class="minimal-input" id="comment" name="comment" value="<%= comment %>" required>
+    </div>
+
+    <div class="form-actions">
+      <button type="submit" class="minimal-btn submit">Update</button>
+      <a href="/blogs/<%= blog._id %>" class="minimal-btn">Cancel</a>
+    </div>
+  </form>
+</div>
