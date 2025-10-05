@@ -68,6 +68,7 @@ Web Page:
 <p>https://www.w3schools.com/mongodb/</p>
 <p>https://www.spaceapps.earth/</p>
 <p>https://chatgpt.com/</p>
+<p>https://aws.amazon.com/q/?trk=acaa3256-a4e1-485f-a1cf-892c76802955&sc_channel=ps&ef_id=Cj0KCQjwrojHBhDdARIsAJdEJ_dWU1Xbs3kXsuZTi-ZMnAjpFw_kYEi9_WQpC8zyl1aIfP6rKNLGJTkaAmEHEALw_wcB:G:s&s_kwcid=AL!4422!3!691967596746!e!!g!!amazon%20q!21048269256!166106443144&gad_campaignid=21048269256&gbraid=0AAAAADjHtp_iKJQzntwDc1POtfc2LRbMu&gclid=Cj0KCQjwrojHBhDdARIsAJdEJ_dWU1Xbs3kXsuZTi-ZMnAjpFw_kYEi9_WQpC8zyl1aIfP6rKNLGJTkaAmEHEALw_wcB</p>
 
 Media Editing:
 <p>https://www.blackmagicdesign.com/event/davinciresolvedownload</p>
