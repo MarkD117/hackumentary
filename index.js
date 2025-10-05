@@ -19,7 +19,7 @@ const expressLayouts = require('express-ejs-layouts');
 app.use(expressLayouts);
 app.set('layout', 'layout');
 
-mongoose.connect('mongodb+srv://Hackumentary:SpaceApps2025@cluster0.gcr9lro.mongodb.net/', {
+mongoose.connect('mongodb+srv://Hackumentary:<SECRET_PASSWORD>cluster0.gcr9lro.mongodb.net/', {
     useNewUrlParser: true,
     useUnifiedTopology: true
 })
